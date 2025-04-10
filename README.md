@@ -151,4 +151,4 @@ dotnet run
 ## 🙋‍♂️ Author
 
 Made with ❤️ by [SALEH SHERIF]  
-Deployed on [MonsterHost](https://runasp.net)
+Deployed on [MonsterHost](https://www.monsterasp.net/)
