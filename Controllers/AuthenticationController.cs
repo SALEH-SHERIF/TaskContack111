@@ -36,11 +36,11 @@ namespace Contact_management.Controllers
 		[HttpPost("login")]
 		public async Task<IActionResult> Login([FromBody] LoginDto loginDto)
 		{
-		
-			//if (!ModelState.IsValid)
-			//{
-			//	return BadRequest(ModelState);
-			//}
+
+			if (!ModelState.IsValid)
+			{
+				return BadRequest(ModelState);
+			}
 
 			var result = await _authenticationService.LoginAsync(loginDto);
 
