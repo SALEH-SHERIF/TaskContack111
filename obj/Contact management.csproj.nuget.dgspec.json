@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\New folder\\Contact management\\Contact management\\Contact management.csproj": {}
+    "H:\\Contact management\\Contact management\\Contact management.csproj": {}
   },
   "projects": {
-    "G:\\New folder\\Contact management\\Contact management\\Contact management.csproj": {
+    "H:\\Contact management\\Contact management\\Contact management.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\New folder\\Contact management\\Contact management\\Contact management.csproj",
+        "projectUniqueName": "H:\\Contact management\\Contact management\\Contact management.csproj",
         "projectName": "Contact management",
-        "projectPath": "G:\\New folder\\Contact management\\Contact management\\Contact management.csproj",
+        "projectPath": "H:\\Contact management\\Contact management\\Contact management.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "G:\\New folder\\Contact management\\Contact management\\obj\\",
+        "outputPath": "H:\\Contact management\\Contact management\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
