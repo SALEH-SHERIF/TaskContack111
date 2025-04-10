@@ -1,0 +1,140 @@
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\appsettings.Development.json
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\appsettings.json
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Contact management.staticwebassets.runtime.json
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Contact management.exe
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Contact management.deps.json
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Contact management.runtimeconfig.json
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Contact management.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Contact management.pdb
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Azure.Core.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Azure.Identity.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Humanizer.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.AspNetCore.Identity.UI.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.Bcl.AsyncInterfaces.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.CodeAnalysis.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.CodeAnalysis.CSharp.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.CodeAnalysis.Workspaces.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.Data.SqlClient.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.EntityFrameworkCore.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.EntityFrameworkCore.Design.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.EntityFrameworkCore.Relational.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.Extensions.Caching.Memory.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.Extensions.DependencyInjection.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.Extensions.DependencyModel.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.Extensions.Identity.Core.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.Extensions.Identity.Stores.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.Extensions.Logging.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.Extensions.Logging.Abstractions.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.Extensions.Options.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.Identity.Client.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.IdentityModel.Abstractions.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.IdentityModel.Logging.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.IdentityModel.Protocols.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.IdentityModel.Tokens.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.OpenApi.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.SqlServer.Server.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.Win32.SystemEvents.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Mono.TextTemplating.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Swashbuckle.AspNetCore.Swagger.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\System.CodeDom.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\System.Composition.AttributedModel.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\System.Composition.Convention.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\System.Composition.Hosting.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\System.Composition.Runtime.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\System.Composition.TypedParts.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\System.Configuration.ConfigurationManager.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\System.Drawing.Common.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\System.IdentityModel.Tokens.Jwt.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\System.Memory.Data.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\System.Runtime.Caching.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\System.Security.Cryptography.ProtectedData.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\System.Security.Permissions.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\System.Windows.Extensions.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\cs\Microsoft.CodeAnalysis.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\de\Microsoft.CodeAnalysis.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\es\Microsoft.CodeAnalysis.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\fr\Microsoft.CodeAnalysis.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\it\Microsoft.CodeAnalysis.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\ja\Microsoft.CodeAnalysis.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\ko\Microsoft.CodeAnalysis.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\pl\Microsoft.CodeAnalysis.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\ru\Microsoft.CodeAnalysis.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\tr\Microsoft.CodeAnalysis.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\New folder\Contact management\Contact management\bin\Release\net8.0\win-x86\Microsoft.Data.SqlClient.SNI.dll
+G:\New folder\Contact management\Contact management\obj\Release\net8.0\win-x86\Contact management.csproj.AssemblyReference.cache
+G:\New folder\Contact management\Contact management\obj\Release\net8.0\win-x86\Contact management.GeneratedMSBuildEditorConfig.editorconfig
+G:\New folder\Contact management\Contact management\obj\Release\net8.0\win-x86\Contact management.AssemblyInfoInputs.cache
+G:\New folder\Contact management\Contact management\obj\Release\net8.0\win-x86\Contact management.AssemblyInfo.cs
+G:\New folder\Contact management\Contact management\obj\Release\net8.0\win-x86\Contact management.csproj.CoreCompileInputs.cache
+G:\New folder\Contact management\Contact management\obj\Release\net8.0\win-x86\Contact management.MvcApplicationPartsAssemblyInfo.cs
+G:\New folder\Contact management\Contact management\obj\Release\net8.0\win-x86\Contact management.MvcApplicationPartsAssemblyInfo.cache
+G:\New folder\Contact management\Contact management\obj\Release\net8.0\win-x86\staticwebassets.build.json
+G:\New folder\Contact management\Contact management\obj\Release\net8.0\win-x86\staticwebassets.development.json
+G:\New folder\Contact management\Contact management\obj\Release\net8.0\win-x86\staticwebassets\msbuild.Contact management.Microsoft.AspNetCore.StaticWebAssets.props
+G:\New folder\Contact management\Contact management\obj\Release\net8.0\win-x86\staticwebassets\msbuild.build.Contact management.props
+G:\New folder\Contact management\Contact management\obj\Release\net8.0\win-x86\staticwebassets\msbuild.buildMultiTargeting.Contact management.props
+G:\New folder\Contact management\Contact management\obj\Release\net8.0\win-x86\staticwebassets\msbuild.buildTransitive.Contact management.props
+G:\New folder\Contact management\Contact management\obj\Release\net8.0\win-x86\staticwebassets.pack.json
+G:\New folder\Contact management\Contact management\obj\Release\net8.0\win-x86\scopedcss\bundle\Contact management.styles.css
+G:\New folder\Contact management\Contact management\obj\Release\net8.0\win-x86\Contact .6D40C6A5.Up2Date
+G:\New folder\Contact management\Contact management\obj\Release\net8.0\win-x86\Contact management.dll
+G:\New folder\Contact management\Contact management\obj\Release\net8.0\win-x86\refint\Contact management.dll
+G:\New folder\Contact management\Contact management\obj\Release\net8.0\win-x86\Contact management.pdb
+G:\New folder\Contact management\Contact management\obj\Release\net8.0\win-x86\Contact management.genruntimeconfig.cache
+G:\New folder\Contact management\Contact management\obj\Release\net8.0\win-x86\ref\Contact management.dll
