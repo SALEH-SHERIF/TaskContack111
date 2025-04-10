@@ -5,8 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Contact_management.Controllers
 {
-	// saleh
-	// sherif saleh 
+	
 	[Route("api/[controller]")]
 	[ApiController]
 	public class AuthenticationController : ControllerBase
@@ -22,11 +21,6 @@ namespace Contact_management.Controllers
 		[HttpPost("register")]
 		public async Task<IActionResult> Register([FromBody] RegisterDto registerDto)
 		{
-			if (!ModelState.IsValid)
-			{
-				return BadRequest(ModelState);
-			}
-
 			var result = await _authenticationService.RegisterAsync(registerDto);
 
 			if (!result.Success)
