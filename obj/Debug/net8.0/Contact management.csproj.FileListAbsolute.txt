@@ -149,3 +149,155 @@ G:\New folder\Contact management\Contact management\bin\Debug\net8.0\runtimes\wi
 G:\New folder\Contact management\Contact management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 G:\New folder\Contact management\Contact management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 G:\New folder\Contact management\Contact management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\appsettings.Development.json
+H:\Contact management\Contact management\bin\Debug\net8.0\appsettings.json
+H:\Contact management\Contact management\bin\Debug\net8.0\Contact management.staticwebassets.runtime.json
+H:\Contact management\Contact management\bin\Debug\net8.0\Contact management.exe
+H:\Contact management\Contact management\bin\Debug\net8.0\Contact management.deps.json
+H:\Contact management\Contact management\bin\Debug\net8.0\Contact management.runtimeconfig.json
+H:\Contact management\Contact management\bin\Debug\net8.0\Contact management.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Contact management.pdb
+H:\Contact management\Contact management\bin\Debug\net8.0\Azure.Core.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Azure.Identity.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Humanizer.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Mono.TextTemplating.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\System.CodeDom.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\System.Composition.Convention.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\System.Composition.Hosting.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\System.Composition.Runtime.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\System.Composition.TypedParts.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\System.Drawing.Common.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\System.Memory.Data.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\System.Runtime.Caching.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\System.Security.Permissions.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\System.Windows.Extensions.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\Contact management\Contact management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\Contact management\Contact management\obj\Debug\net8.0\Contact management.csproj.AssemblyReference.cache
+H:\Contact management\Contact management\obj\Debug\net8.0\Contact management.GeneratedMSBuildEditorConfig.editorconfig
+H:\Contact management\Contact management\obj\Debug\net8.0\Contact management.AssemblyInfoInputs.cache
+H:\Contact management\Contact management\obj\Debug\net8.0\Contact management.AssemblyInfo.cs
+H:\Contact management\Contact management\obj\Debug\net8.0\Contact management.csproj.CoreCompileInputs.cache
+H:\Contact management\Contact management\obj\Debug\net8.0\Contact management.MvcApplicationPartsAssemblyInfo.cs
+H:\Contact management\Contact management\obj\Debug\net8.0\Contact management.MvcApplicationPartsAssemblyInfo.cache
+H:\Contact management\Contact management\obj\Debug\net8.0\Contact management.sourcelink.json
+H:\Contact management\Contact management\obj\Debug\net8.0\staticwebassets.build.json
+H:\Contact management\Contact management\obj\Debug\net8.0\staticwebassets.development.json
+H:\Contact management\Contact management\obj\Debug\net8.0\staticwebassets\msbuild.Contact management.Microsoft.AspNetCore.StaticWebAssets.props
+H:\Contact management\Contact management\obj\Debug\net8.0\staticwebassets\msbuild.build.Contact management.props
+H:\Contact management\Contact management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Contact management.props
+H:\Contact management\Contact management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Contact management.props
+H:\Contact management\Contact management\obj\Debug\net8.0\staticwebassets.pack.json
+H:\Contact management\Contact management\obj\Debug\net8.0\scopedcss\bundle\Contact management.styles.css
+H:\Contact management\Contact management\obj\Debug\net8.0\Contact .6D40C6A5.Up2Date
+H:\Contact management\Contact management\obj\Debug\net8.0\Contact management.dll
+H:\Contact management\Contact management\obj\Debug\net8.0\refint\Contact management.dll
+H:\Contact management\Contact management\obj\Debug\net8.0\Contact management.pdb
+H:\Contact management\Contact management\obj\Debug\net8.0\Contact management.genruntimeconfig.cache
+H:\Contact management\Contact management\obj\Debug\net8.0\ref\Contact management.dll

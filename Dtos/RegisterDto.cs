@@ -8,6 +8,7 @@ namespace Contact_management.Dtos
 		[StringLength(50, ErrorMessage = "Username must be between 3 and 50 characters.", MinimumLength = 3)]
 		public string userName { get; set; }
 
+		[RegularExpression(@"^[^@\s]+@[^@\s]+\.[^@\s]+$", ErrorMessage = "Please enter a valid email address.Example=user@gmail.com ")]
 		[Required(ErrorMessage = "Email is required.")]
 		[EmailAddress(ErrorMessage = "Please enter a valid email address.")]
 		[StringLength(100, ErrorMessage = "Email can't be longer than 100 characters.")]
