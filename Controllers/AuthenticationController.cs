@@ -21,6 +21,10 @@ namespace Contact_management.Controllers
 		[HttpPost("register")]
 		public async Task<IActionResult> Register([FromBody] RegisterDto registerDto)
 		{
+			if (!ModelState.IsValid)
+			{
+				return BadRequest(ModelState);
+			}
 			var result = await _authenticationService.RegisterAsync(registerDto);
 
 			if (!result.Success)

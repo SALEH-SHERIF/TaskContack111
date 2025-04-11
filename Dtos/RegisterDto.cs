@@ -10,10 +10,12 @@ namespace Contact_management.Dtos
 
 		[Required(ErrorMessage = "Email is required.")]
 		[EmailAddress(ErrorMessage = "Please enter a valid email address.")]
+		[StringLength(100, ErrorMessage = "Email can't be longer than 100 characters.")]
+
 		public string Email { get; set; }
 
 		[Required(ErrorMessage = "Password is required.")]
-		[StringLength(10, ErrorMessage = "Password must be at least 6 characters long.", MinimumLength = 6)]
+		[StringLength(10, ErrorMessage = "Password must be at least 6 characters long and at most 10 characters ", MinimumLength = 6)]
 		public string Password { get; set; }
 
 		[Required(ErrorMessage = "Confirm Password is required.")]
