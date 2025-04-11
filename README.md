@@ -29,7 +29,7 @@ Users can sign up, sign in, and manage their own address book.
 - SQL Server
 - JWT Authentication
 - Identity Framework
-- Swagger / Swashbuckle
+- Swagger / postman
 
 ---
 
@@ -100,7 +100,7 @@ Users can sign up, sign in, and manage their own address book.
 
 - Enabled by default
 - Visit: [`/swagger/index.html`](http://contact1.runasp.net/swagger/index.html)
-- Click **Authorize** and enter: `Bearer <your_token>`
+- Click **Authorize** and enter: `Bearer <token>`
 
 ---
 
@@ -130,7 +130,7 @@ dotnet ef database update
 dotnet run
 ```
 
-4. Open browser: `https://localhost:<port>/swagger`
+4. Open browser: `https://localhost:7189/swagger/index.html`
 
 ---
 
