@@ -17,6 +17,7 @@ namespace Contact_management.Dtos
 
 		[Required(ErrorMessage = "Email is required.")]
 		[EmailAddress(ErrorMessage = "Please enter a valid Email.")]
+		[RegularExpression(@"^[^@\s]+@[^@\s]+\.[^@\s]+$", ErrorMessage = "Please enter a valid email address.Example=user@gmail.com ")]
 		public string Email { get; set; } = null!;
 		
 		[Required(ErrorMessage = "Birth Date is required.")]
